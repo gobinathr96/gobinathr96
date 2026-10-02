@@ -27,6 +27,7 @@ I'm a Computer Science graduate passionate about building practical web applicat
 * HTML5
 * CSS3
 * JavaScript
+* React
 
 ### Database
 
